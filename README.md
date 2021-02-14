@@ -1,6 +1,6 @@
 # CodeWars
 
-[codewars.com](https://www.codewars.com/).
+[codewars.com](https://www.codewars.com/)
 
 [![Profile badge](https://www.codewars.com/users/joshpled/badges/large)](https://www.codewars.com/users/joshpled)
 
